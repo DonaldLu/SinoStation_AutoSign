@@ -1,0 +1,9 @@
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.Properties.Resources.resources
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.csproj.GenerateResource.cache
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.csproj.CoreCompileInputs.cache
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\bin\Debug\AutoSign.dll
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\bin\Debug\AutoSign.pdb
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.dll
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.pdb
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.AutoSignForm.resources
+C:\Prj\Revit\SinoStation_AutoSign\AutoSign\obj\Debug\AutoSign.csprojAssemblyReference.cache
